@@ -1,4 +1,4 @@
-# 🚀 Portfolio — Your Name
+# 🚀 Portfolio — Sahil More
 
 A dark-themed, interactive developer portfolio built with vanilla HTML, CSS & JavaScript.
 
